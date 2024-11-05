@@ -1,0 +1,14 @@
+D:\homeworke\NacionalnaBiblioteca\bin\Debug\net8.0\NacionalnaBiblioteca.exe
+D:\homeworke\NacionalnaBiblioteca\bin\Debug\net8.0\NacionalnaBiblioteca.deps.json
+D:\homeworke\NacionalnaBiblioteca\bin\Debug\net8.0\NacionalnaBiblioteca.runtimeconfig.json
+D:\homeworke\NacionalnaBiblioteca\bin\Debug\net8.0\NacionalnaBiblioteca.dll
+D:\homeworke\NacionalnaBiblioteca\bin\Debug\net8.0\NacionalnaBiblioteca.pdb
+D:\homeworke\NacionalnaBiblioteca\obj\Debug\net8.0\NacionalnaBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\homeworke\NacionalnaBiblioteca\obj\Debug\net8.0\NacionalnaBiblioteca.AssemblyInfoInputs.cache
+D:\homeworke\NacionalnaBiblioteca\obj\Debug\net8.0\NacionalnaBiblioteca.AssemblyInfo.cs
+D:\homeworke\NacionalnaBiblioteca\obj\Debug\net8.0\NacionalnaBiblioteca.csproj.CoreCompileInputs.cache
+D:\homeworke\NacionalnaBiblioteca\obj\Debug\net8.0\NacionalnaBiblioteca.dll
+D:\homeworke\NacionalnaBiblioteca\obj\Debug\net8.0\refint\NacionalnaBiblioteca.dll
+D:\homeworke\NacionalnaBiblioteca\obj\Debug\net8.0\NacionalnaBiblioteca.pdb
+D:\homeworke\NacionalnaBiblioteca\obj\Debug\net8.0\NacionalnaBiblioteca.genruntimeconfig.cache
+D:\homeworke\NacionalnaBiblioteca\obj\Debug\net8.0\ref\NacionalnaBiblioteca.dll
